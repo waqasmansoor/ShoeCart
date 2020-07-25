@@ -55,7 +55,7 @@ export default function Cart({ data, Items_in_cart, inc_item, dec_item }) {
             </div>
             <div className="total">
                 <h3>
-                    Total :{TotalPrice}
+                    Total :{TotalPrice}$
                 </h3>
             </div>
         
